@@ -16,7 +16,9 @@
   "scripts": {
     "postinstall": "node_modules/.bin/bower install --config.interactive=false && npm run postupdate",
     "postupdate": "node_modules/.bin/bower update --config.interactive=false",
-    "test": "gulp test"
+    "test": "gulp test",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
   },
   "chromium-args": "--enable-node-worker",
   "engines": {
@@ -35,7 +37,7 @@
   },
   "dependencies": {
     "TorrentCollection": "^x.x.x",
-    "adm-zip": "0.4.7",
+    "adm-zip": "0.4.11",
     "airplayer": "2.0.0",
     "async": "2.1.2",
     "butter-provider": "git+https://github.com/butterproviders/butter-provider",
@@ -69,7 +71,7 @@
     "rimraf": "2.x.x",
     "sanitizer": "0.x.x",
     "semver": "5.x.x",
-    "send": "0.14.x",
+    "send": "0.16.0",
     "tar": "2.2.1",
     "temp": "0.x.x",
     "trakt.tv": "2.x.x",
@@ -79,7 +81,8 @@
     "underscore": "1.x.x",
     "urijs": "1.18.3",
     "webtorrent": "^0.98.x",
-    "webtorrent-health": "1.x.x"
+    "webtorrent-health": "1.x.x",
+    "snyk": "^1.161.1"
   },
   "devDependencies": {
     "bower": "^1.7.9",
@@ -101,5 +104,6 @@
     "run-sequence": "^1.1.5",
     "stylus": "^0.54.2",
     "yargs": "^6.4.0"
-  }
+  },
+  "snyk": true
 }
