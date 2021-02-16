@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "TorrentCollection": "^x.x.x",
-    "adm-zip": "0.4.7",
+    "adm-zip": "0.5.2",
     "airplayer": "2.0.0",
     "async": "2.1.2",
     "butter-provider": "git+https://github.com/butterproviders/butter-provider",
