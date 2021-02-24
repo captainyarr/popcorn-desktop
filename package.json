@@ -50,7 +50,7 @@
     "gitlab": "1.4.1",
     "i18n": "0.x.x",
     "iconv-lite": "0.x.x",
-    "jschardet": "1.4.1",
+    "jschardet": "1.6.0",
     "json-rpc2": "2.0.0",
     "markdown": "0.5.x",
     "memoizee": "0.x.x",
