@@ -37,7 +37,7 @@
     "TorrentCollection": "^x.x.x",
     "adm-zip": "0.4.7",
     "airplayer": "2.0.0",
-    "async": "2.1.2",
+    "async": "2.6.3",
     "butter-provider": "git+https://github.com/butterproviders/butter-provider",
     "butter-provider-anime": "git+https://github.com/ChrisAlderson/butter-provider-anime",
     "butter-provider-movies": "git+https://github.com/ChrisAlderson/butter-provider-movies",
