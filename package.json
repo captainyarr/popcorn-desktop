@@ -72,7 +72,7 @@
     "send": "0.14.x",
     "tar": "2.2.1",
     "temp": "0.x.x",
-    "trakt.tv": "2.x.x",
+    "trakt.tv": "8.1.0",
     "trakt.tv-images": "1.x.x",
     "trakt.tv-matcher": "1.x.x",
     "trakt.tv-ondeck": "0.x.x",
