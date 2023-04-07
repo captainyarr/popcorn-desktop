@@ -69,7 +69,7 @@
     "rimraf": "2.x.x",
     "sanitizer": "0.x.x",
     "semver": "5.x.x",
-    "send": "0.14.x",
+    "send": "0.15.6",
     "tar": "2.2.1",
     "temp": "0.x.x",
     "trakt.tv": "2.x.x",
@@ -78,7 +78,7 @@
     "trakt.tv-ondeck": "0.x.x",
     "underscore": "1.x.x",
     "urijs": "1.19.6",
-    "webtorrent": "^0.98.x",
+    "webtorrent": "^0.107.6",
     "webtorrent-health": "1.x.x"
   },
   "devDependencies": {
