@@ -47,7 +47,7 @@
     "chromecasts": "1.9.0",
     "defer-request": "0.0.2",
     "dlnacasts": "0.1.0",
-    "gitlab": "1.4.1",
+    "gitlab": "3.0.0",
     "i18n": "0.x.x",
     "iconv-lite": "0.x.x",
     "jschardet": "1.4.1",
