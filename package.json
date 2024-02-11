@@ -44,7 +44,7 @@
     "butter-provider-tvapi": "git+https://github.com/team-pct/butter-provider-tvapi",
     "butter-provider-vodo": "git+https://github.com/butterproviders/butter-provider-vodo",
     "butter-settings-popcorntime.io": "git+https://github.com/popcorn-official/butter-settings-popcorn",
-    "chromecasts": "1.9.0",
+    "chromecasts": "1.10.0",
     "defer-request": "0.0.2",
     "dlnacasts": "0.1.0",
     "gitlab": "1.4.1",
