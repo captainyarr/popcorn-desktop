@@ -78,7 +78,7 @@
     "trakt.tv-ondeck": "0.x.x",
     "underscore": "1.x.x",
     "urijs": "1.19.6",
-    "webtorrent": "^0.98.x",
+    "webtorrent": "^1.0.0",
     "webtorrent-health": "1.x.x"
   },
   "devDependencies": {
